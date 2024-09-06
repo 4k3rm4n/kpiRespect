@@ -1,4 +1,4 @@
-# kpiDlyaDaunov
+# 🗣️🗣️
 only for kpi stud3nts
 
 Захсит інформації в комп системах:
